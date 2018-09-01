@@ -1,0 +1,54 @@
+body {
+	margin-top: 20px;
+}
+
+#canvas {
+	border: 1px solid #aaaaaa;
+}
+
+#canvas-div {
+	margin-left: -20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#header {
+	margin-top: 0px;
+	margin-left: 60px;
+}
+
+#comment {
+	margin-left: 60px;
+}
+
+#btn-group {
+	margin-left: -70px;
+}
+
+#svg-chart {
+	margin-top: 75px;
+	margin-left: -120px;
+}
+
+.bar { 
+	fill: steelblue; 
+}
+
+.bar:hover {
+    fill: red ;
+}
+
+.axis text {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: none;
+}

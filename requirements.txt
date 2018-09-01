@@ -1,0 +1,4 @@
+numpy>=1.13.0
+Pillow>=4.1.1
+tensorflow>=1.2.0
+tflearn>=0.3.1
